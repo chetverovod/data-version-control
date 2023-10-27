@@ -1,5 +1,7 @@
 [core]
     analytics = false
     remote = remote_storage
+[cache]
+    dir = ../../shared_cash
 ['remote "remote_storage"']
     url = /home/igor/dvc_remote/
